@@ -202,6 +202,10 @@ html, body {
         padding: 6px 10px;
         gap: 8px;
         font-size: calc(14px * var(--font-scale));
+        touch-action: manipulation;          /* no double-tap zoom */
+        -webkit-tap-highlight-color: transparent;  /* no grey flash on tap */
+        user-select: none;                   /* no accidental text selection */
+        -webkit-user-select: none;
     }
 
     /* Popups: slightly smaller text */
@@ -237,5 +241,9 @@ html, body {
         min-height: 30px;
         padding: 4px 10px;
         font-size: calc(13px * var(--font-scale));
+        touch-action: manipulation;          /* no double-tap zoom */
+        -webkit-tap-highlight-color: transparent;  /* no grey flash on tap */
+        user-select: none;                   /* no accidental text selection */
+        -webkit-user-select: none;
     }
 }
