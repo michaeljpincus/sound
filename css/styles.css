@@ -190,22 +190,20 @@ html, body {
     }
 
     /* Tour cards: compact, still big enough to tap */
-    #tour-legend {
+        #tour-legend {
+        left: calc(8px + env(safe-area-inset-left));
         right: calc(8px + env(safe-area-inset-right));
         bottom: calc(28px + env(safe-area-inset-bottom));
         gap: 4px;
     }
 
     .tour-card {
-        width: 220px;          /* widened to fit the larger font */
+        width: 100%;
+        box-sizing: border-box;
         min-height: 36px;
         padding: 6px 10px;
         gap: 8px;
         font-size: calc(14px * var(--font-scale));
-        touch-action: manipulation;          /* no double-tap zoom */
-        -webkit-tap-highlight-color: transparent;  /* no grey flash on tap */
-        user-select: none;                   /* no accidental text selection */
-        -webkit-user-select: none;
     }
 
     /* Popups: slightly smaller text */
@@ -218,11 +216,12 @@ html, body {
         font-size: calc(14px * var(--font-scale));
     }
 
-    #footer {
+     #footer {
         left: calc(8px + env(safe-area-inset-left));
+        right: calc(8px + env(safe-area-inset-right));
         bottom: calc(6px + env(safe-area-inset-bottom));
+        max-width: none;
         font-size: calc(9px * var(--font-scale));
-        max-width: 30vw;
     }
 }
 
