@@ -246,3 +246,20 @@ html, body {
         -webkit-user-select: none;
     }
 }
+
+/* ---------- Desktop: swap attribution and footer ---------- */
+@media (min-width: 601px) {
+
+    /* Footer moves to the bottom right */
+    #footer {
+        left: auto;
+        right: 12px;
+        text-align: right;
+    }
+
+    /* MapLibre's attribution moves to the bottom left */
+    .maplibregl-ctrl-bottom-right {
+        right: auto;
+        left: 0;
+    }
+}
