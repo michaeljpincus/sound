@@ -27,6 +27,11 @@ function formatDate(dateString) {
 
 
 map.on('load', () => {
+
+    const attrib = document.querySelector('.maplibregl-ctrl-attrib');
+    attrib?.classList.remove('maplibregl-compact-show');
+    attrib?.removeAttribute('open');
+    
     map.addSource('tour_cities', {
     type: 'geojson',
     data: 'fixedgdf.geojson',

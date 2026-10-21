@@ -385,8 +385,8 @@
 435,2019-10-04,Darling,Music for Cars Tour,South Africa,-33.3833,18.3833
 436,2019-10-06,Johannesburg,Music for Cars Tour,South Africa,-26.2044,28.0416
 437,2019-11-02,Paris,Music for Cars Tour,France,48.8567,2.3522
-438,2019-11-16,Camden,Music for Cars Tour,United Kingdom,51.5434,-0.1552
-439,2019-11-17,Camden,Music for Cars Tour,United Kingdom,51.5434,-0.1552
+438,2019-11-16,Camden,Music for Cars Tour,,39.94021079,-75.123143
+439,2019-11-17,Camden,Music for Cars Tour,,39.94021079,-75.123143
 440,2019-11-19,Raleigh,Music for Cars Tour,United States,35.8324,-78.6429
 441,2019-11-20,Greenville,Music for Cars Tour,United States,34.8354,-82.3646
 442,2019-11-22,Orlando,Music for Cars Tour,United States,28.4773,-81.337
@@ -425,7 +425,7 @@
 477,2022-11-04,Boston,At Their Very Best,United States,42.3188,-71.0852
 478,2022-11-05,Boston,At Their Very Best,United States,42.3188,-71.0852
 479,2022-11-07,New York,At Their Very Best,United States,40.6943,-73.9249
-480,2022-11-09,Camden,At Their Very Best,United Kingdom,51.5434,-0.1552
+480,2022-11-09,Camden,At Their Very Best,United States,39.94021079,-75.123143
 481,2022-11-10,Washington,At Their Very Best,United States,38.9047,-77.0163
 482,2022-11-12,Atlanta,At Their Very Best,United States,33.7628,-84.422
 483,2022-11-13,Nashville,At Their Very Best,United States,36.1715,-86.7842
