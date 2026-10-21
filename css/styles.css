@@ -218,7 +218,7 @@ html, body {
         left: calc(8px + env(safe-area-inset-left));
         bottom: calc(6px + env(safe-area-inset-bottom));
         font-size: calc(11px * var(--font-scale));
-        max-width: 45vw;
+        max-width: 40vw;
     }
 }
 
