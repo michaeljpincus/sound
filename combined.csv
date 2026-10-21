@@ -1,0 +1,658 @@
+,Date,city,Tour,country,lat,lng
+0,2014-09-05,Kansas City,The 1975 World Tour,United States,39.1238,-94.5541
+1,2014-09-06,St. Louis,The 1975 World Tour,United States,38.6359,-90.2451
+2,2014-09-07,Boston,The 1975 World Tour,United States,42.3188,-71.0852
+3,2014-09-14,Shrewsbury,The 1975 World Tour,United Kingdom,52.708,-2.754
+4,2014-09-21,Manchester,The 1975 World Tour,United Kingdom,53.479,-2.2452
+5,2014-09-22,Manchester,The 1975 World Tour,United Kingdom,53.479,-2.2452
+6,2014-09-24,Glasgow,The 1975 World Tour,United Kingdom,55.8611,-4.25
+7,2014-09-25,Glasgow,The 1975 World Tour,United Kingdom,55.8611,-4.25
+8,2014-09-26,Manchester,The 1975 World Tour,United Kingdom,53.479,-2.2452
+9,2014-09-27,Manchester,The 1975 World Tour,United Kingdom,53.479,-2.2452
+10,2014-09-29,Wolverhampton,The 1975 World Tour,United Kingdom,52.5833,-2.1333
+11,2014-09-30,London,The 1975 World Tour,United Kingdom,51.5072,-0.1275
+12,2014-10-01,London,The 1975 World Tour,United Kingdom,51.5072,-0.1275
+13,2014-10-03,Paris,The 1975 World Tour,France,48.8567,2.3522
+14,2014-10-04,Utrecht,The 1975 World Tour,Netherlands,52.0908,5.1217
+15,2014-10-05,Brussels,The 1975 World Tour,Belgium,50.8333,4.3333
+16,2014-10-08,Cologne,The 1975 World Tour,Germany,50.9422,6.9578
+17,2014-10-19,Frankfurt,The 1975 World Tour,Germany,50.1106,8.6822
+18,2014-10-10,Munich,The 1975 World Tour,Germany,48.1375,11.575
+19,2014-10-11,Leipzig,The 1975 World Tour,Germany,51.3394,12.3711
+20,2014-10-12,Berlin,The 1975 World Tour,Germany,52.5167,13.3833
+21,2014-10-13,Hamburg,The 1975 World Tour,Germany,53.55,10.0
+22,2014-10-15,Copenhagen,The 1975 World Tour,Denmark,55.6761,12.5689
+23,2014-10-16,Stockholm,The 1975 World Tour,Sweden,59.3275,18.0547
+24,2014-10-17,Oslo,The 1975 World Tour,Norway,59.9133,10.7389
+25,2014-10-18,Helsinki,The 1975 World Tour,Finland,60.1708,24.9375
+26,2014-10-20,Warsaw,The 1975 World Tour,Poland,52.23,21.0111
+27,2014-10-21,Prague,The 1975 World Tour,Czechia,50.0875,14.4214
+28,2014-10-22,Vienna,The 1975 World Tour,Austria,48.2083,16.3725
+29,2014-10-23,Lausanne,The 1975 World Tour,Switzerland,46.5333,6.6333
+30,2014-10-25,Roncade,The 1975 World Tour,Italy,45.6246,12.3766
+31,2014-10-26,Bologna,The 1975 World Tour,Italy,44.4939,11.3428
+32,2014-11-01,Montréal,The 1975 World Tour,Canada,45.5089,-73.5617
+33,2014-11-02,Toronto,The 1975 World Tour,Canada,43.7417,-79.3733
+34,2014-11-03,Toronto,The 1975 World Tour,Canada,43.7417,-79.3733
+35,2014-11-04,Detroit,The 1975 World Tour,United States,42.3834,-83.1024
+36,2014-11-05,Chicago,The 1975 World Tour,United States,41.8375,-87.6866
+37,2014-11-07,Milwaukee,The 1975 World Tour,United States,43.0642,-87.9675
+38,2014-11-08,Maplewood,The 1975 World Tour,United States,44.9842,-93.0247
+39,2014-11-09,Kansas City,The 1975 World Tour,United States,39.1238,-94.5541
+40,2014-11-11,Denver,The 1975 World Tour,United States,39.762,-104.8758
+41,2014-11-13,Portland,The 1975 World Tour,United States,45.5371,-122.65
+42,2014-11-14,Vancouver,The 1975 World Tour,Canada,49.25,-123.1
+43,2014-11-15,Vancouver,The 1975 World Tour,Canada,49.25,-123.1
+44,2014-11-16,Seattle,The 1975 World Tour,United States,47.6211,-122.3244
+45,2014-11-18,San Francisco,The 1975 World Tour,United States,37.7558,-122.4449
+46,2014-11-19,Los Angeles,The 1975 World Tour,United States,34.1141,-118.4068
+47,2014-11-20,Los Angeles,The 1975 World Tour,United States,34.1141,-118.4068
+48,2014-11-21,San Diego,The 1975 World Tour,United States,32.8313,-117.1222
+49,2014-11-22,Mesa,The 1975 World Tour,United States,33.4015,-111.7178
+50,2014-11-22,Phoenix,The 1975 World Tour,United States,33.5722,-112.0892
+51,2014-11-24,Dallas,The 1975 World Tour,United States,32.7935,-96.7667
+52,2014-11-25,Austin,The 1975 World Tour,United States,30.3005,-97.7522
+53,2014-11-26,Houston,The 1975 World Tour,United States,29.786,-95.3885
+54,2014-11-28,Chattanooga,The 1975 World Tour,United States,35.066,-85.2481
+55,2014-11-29,Atlanta,The 1975 World Tour,United States,33.7628,-84.422
+56,2014-11-30,Raleigh,The 1975 World Tour,United States,35.8324,-78.6429
+57,2014-12-02,Washington,The 1975 World Tour,United States,38.9047,-77.0163
+58,2014-12-03,Upper Darby,The 1975 World Tour,United States,39.949,-75.2891
+59,2014-12-04,New York,The 1975 World Tour,United States,40.6943,-73.9249
+60,2014-12-05,New York,The 1975 World Tour,United States,40.6943,-73.9249
+61,2014-12-06,Boston,The 1975 World Tour,United States,42.3188,-71.0852
+62,2014-12-09,Huntington,The 1975 World Tour,United States,40.8521,-73.3823
+63,2014-12-10,Port Chester,The 1975 World Tour,United States,41.0051,-73.668
+66,2014-12-14,Sayreville,The 1975 World Tour,United States,40.4656,-74.3237
+67,2014-12-15,Pittsburgh,The 1975 World Tour,United States,40.4397,-79.9763
+68,2014-12-16,Cleveland,The 1975 World Tour,United States,41.4764,-81.6805
+69,2014-12-17,Columbus,The 1975 World Tour,United States,39.9862,-82.9855
+71,2015-01-07,Tokyo,The 1975 World Tour,Japan,35.685,139.7514
+72,2015-01-10,Adelaide,The 1975 World Tour,Australia,-34.9275,138.6
+73,2015-01-11,Melbourne,The 1975 World Tour,Australia,-37.8142,144.9631
+74,2015-01-15,Melbourne,The 1975 World Tour,Australia,-37.8142,144.9631
+75,2015-01-16,Sydney,The 1975 World Tour,Australia,-33.8678,151.21
+76,2015-01-17,Sydney,The 1975 World Tour,Australia,-33.8678,151.21
+77,2015-01-18,Brisbane,The 1975 World Tour,Australia,-27.4678,153.0278
+78,2015-01-20,Auckland,The 1975 World Tour,New Zealand,-36.8492,174.7653
+79,2015-01-24,Pasay City,The 1975 World Tour,Philippines,14.5439,120.995
+80,2015-01-25,Bangkok,The 1975 World Tour,Thailand,13.75,100.5167
+81,2015-01-27,Hong Kong,The 1975 World Tour,Hong Kong,22.2783,114.1586
+82,2015-11-09,Liverpool,I Like It When You Sleep Tour,United Kingdom,53.4072,-2.9917
+83,2015-11-10,Leicester,I Like It When You Sleep Tour,United Kingdom,52.6361,-1.1331
+84,2015-11-11,Sheffield,I Like It When You Sleep Tour,United Kingdom,53.3808,-1.4703
+85,2015-11-12,Doncaster,I Like It When You Sleep Tour,United Kingdom,53.5228,-1.1325
+86,2015-11-14,Nottingham,I Like It When You Sleep Tour,United Kingdom,52.9561,-1.1512
+87,2015-11-15,Newcastle,I Like It When You Sleep Tour,South Africa,-27.7464,29.9328
+88,2015-11-17,Edinburgh,I Like It When You Sleep Tour,United Kingdom,55.95,-3.1833
+89,2015-11-18,Bridlington,I Like It When You Sleep Tour,United Kingdom,54.0819,-0.1923
+90,2015-11-19,Cambridge,I Like It When You Sleep Tour,Canada,43.3972,-80.3114
+91,2015-11-20,Plymouth,I Like It When You Sleep Tour,United Kingdom,50.3714,-4.1422
+94,2015-11-24,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+95,2015-11-26,Brighton,I Like It When You Sleep Tour,United Kingdom,50.8208,-0.1375
+96,2015-11-27,Swindon,I Like It When You Sleep Tour,United Kingdom,51.56,-1.78
+97,2015-11-28,Manchester,I Like It When You Sleep Tour,United Kingdom,53.479,-2.2452
+98,2015-12-03,Boston,I Like It When You Sleep Tour,United States,42.3188,-71.0852
+99,2015-12-04,New York,I Like It When You Sleep Tour,United States,40.6943,-73.9249
+100,2015-12-05,Philadelphia,I Like It When You Sleep Tour,United States,40.0077,-75.1339
+101,2015-12-07,Columbus,I Like It When You Sleep Tour,United States,39.9862,-82.9855
+102,2015-12-08,Chicago,I Like It When You Sleep Tour,United States,41.8375,-87.6866
+103,2015-12-10,Minneapolis,I Like It When You Sleep Tour,United States,44.9635,-93.2678
+104,2015-12-11,Kansas City,I Like It When You Sleep Tour,United States,39.1238,-94.5541
+105,2015-12-13,Los Angeles,I Like It When You Sleep Tour,United States,34.1141,-118.4068
+106,2015-12-14,Tempe,I Like It When You Sleep Tour,United States,33.3881,-111.9319
+107,2015-12-15,San Diego,I Like It When You Sleep Tour,United States,32.8313,-117.1222
+108,2015-12-16,Los Angeles,I Like It When You Sleep Tour,United States,34.1141,-118.4068
+109,2015-12-18,Oakland,I Like It When You Sleep Tour,United States,37.7904,-122.2166
+110,2015-12-19,Portland,I Like It When You Sleep Tour,United States,45.5371,-122.65
+111,2015-12-20,Seattle,I Like It When You Sleep Tour,United States,47.6211,-122.3244
+112,2016-01-15,Auckland,I Like It When You Sleep Tour,New Zealand,-36.8492,174.7653
+113,2016-01-17,Brisbane,I Like It When You Sleep Tour,Australia,-27.4678,153.0278
+114,2016-01-19,Sydney,I Like It When You Sleep Tour,Australia,-33.8678,151.21
+115,2016-01-20,Melbourne,I Like It When You Sleep Tour,Australia,-37.8142,144.9631
+116,2016-01-21,Adelaide,I Like It When You Sleep Tour,Australia,-34.9275,138.6
+117,2016-01-23,Perth,I Like It When You Sleep Tour,Australia,-31.9558,115.8597
+118,2016-01-26,Tokyo,I Like It When You Sleep Tour,Japan,35.685,139.7514
+119,2016-01-28,Seoul,I Like It When You Sleep Tour,"Korea, South",37.56,126.99
+120,2016-01-30,Singapore,I Like It When You Sleep Tour,Singapore,1.3,103.8
+121,2016-03-04,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+122,2016-03-05,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+123,2016-03-07,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+124,2016-03-08,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+125,2016-03-09,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+126,2016-03-12,Manchester,I Like It When You Sleep Tour,United Kingdom,53.479,-2.2452
+127,2016-03-13,Manchester,I Like It When You Sleep Tour,United Kingdom,53.479,-2.2452
+128,2016-03-14,Manchester,I Like It When You Sleep Tour,United Kingdom,53.479,-2.2452
+129,2016-03-15,Manchester,I Like It When You Sleep Tour,United Kingdom,53.479,-2.2452
+130,2016-03-17,Glasgow,I Like It When You Sleep Tour,United Kingdom,55.8611,-4.25
+131,2016-03-18,Glasgow,I Like It When You Sleep Tour,United Kingdom,55.8611,-4.25
+132,2016-03-19,Glasgow,I Like It When You Sleep Tour,United Kingdom,55.8611,-4.25
+133,2016-03-20,Glasgow,I Like It When You Sleep Tour,United Kingdom,55.8611,-4.25
+134,2016-03-22,Birmingham,I Like It When You Sleep Tour,United Kingdom,52.48,-1.9025
+135,2016-03-24,Dublin,I Like It When You Sleep Tour,Ireland,53.3497,-6.2603
+136,2016-03-28,Zürich,I Like It When You Sleep Tour,Switzerland,47.3744,8.5411
+137,2016-03-30,Brussels,I Like It When You Sleep Tour,Belgium,50.8333,4.3333
+138,2016-03-31,Paris,I Like It When You Sleep Tour,France,48.8567,2.3522
+139,2016-04-01,Amsterdam,I Like It When You Sleep Tour,Netherlands,52.3667,4.8833
+140,2016-04-02,Hamburg,I Like It When You Sleep Tour,Germany,53.55,10.0
+142,2016-04-05,Oslo,I Like It When You Sleep Tour,Norway,59.9133,10.7389
+143,2016-04-06,Stockholm,I Like It When You Sleep Tour,Sweden,59.3275,18.0547
+144,2016-04-08,Berlin,I Like It When You Sleep Tour,Germany,52.5167,13.3833
+145,2016-04-09,Munich,I Like It When You Sleep Tour,Germany,48.1375,11.575
+146,2016-04-10,Munich,I Like It When You Sleep Tour,Germany,48.1375,11.575
+147,2016-04-11,Vienna,I Like It When You Sleep Tour,Austria,48.2083,16.3725
+148,2016-04-12,Milan,I Like It When You Sleep Tour,Italy,45.4669,9.19
+149,2016-04-13,Bologna,I Like It When You Sleep Tour,Italy,44.4939,11.3428
+150,2016-04-17,Indio,I Like It When You Sleep Tour,United States,33.7346,-116.2346
+151,2016-04-18,Los Angeles,I Like It When You Sleep Tour,United States,34.1141,-118.4068
+152,2016-04-19,Los Angeles,I Like It When You Sleep Tour,United States,34.1141,-118.4068
+155,2016-04-23,Las Vegas,I Like It When You Sleep Tour,United States,36.2333,-115.2654
+156,2016-04-24,Indio,I Like It When You Sleep Tour,United States,33.7346,-116.2346
+158,2016-04-27,Vancouver,I Like It When You Sleep Tour,Canada,49.25,-123.1
+159,2016-04-28,Seattle,I Like It When You Sleep Tour,United States,47.6211,-122.3244
+160,2016-05-02,Denver,I Like It When You Sleep Tour,United States,39.762,-104.8758
+161,2016-04-03,Kansas City,I Like It When You Sleep Tour,United States,39.1238,-94.5541
+162,2016-04-04,Tulsa,I Like It When You Sleep Tour,United States,36.1283,-95.9042
+163,2016-04-05,Austin,I Like It When You Sleep Tour,United States,30.3005,-97.7522
+164,2016-04-07,Houston,I Like It When You Sleep Tour,United States,29.786,-95.3885
+165,2016-04-08,New Orleans,I Like It When You Sleep Tour,United States,30.0687,-89.9288
+166,2016-04-10,St. Augustine,I Like It When You Sleep Tour,United States,29.8976,-81.31
+167,2016-04-11,Miami,I Like It When You Sleep Tour,United States,25.784,-80.2101
+168,2016-04-13,Atlanta,I Like It When You Sleep Tour,United States,33.7628,-84.422
+169,2016-04-14,Columbia,I Like It When You Sleep Tour,United States,34.0378,-80.9036
+170,2016-04-15,Philadelphia,I Like It When You Sleep Tour,United States,40.0077,-75.1339
+171,2016-04-17,Brooklyn,I Like It When You Sleep Tour,United States,40.6501,-73.9496
+172,2016-04-18,Lowell,I Like It When You Sleep Tour,United States,42.6389,-71.3217
+173,2016-04-20,Toronto,I Like It When You Sleep Tour,Canada,43.7417,-79.3733
+174,2016-04-21,Rochester Hills,I Like It When You Sleep Tour,United States,42.6645,-83.1563
+175,2016-04-22,Columbus,I Like It When You Sleep Tour,United States,39.9862,-82.9855
+176,2016-04-24,Milwaukee,I Like It When You Sleep Tour,United States,43.0642,-87.9675
+177,2016-04-25,St. Paul,I Like It When You Sleep Tour,United States,44.9478,-93.1039
+181,2016-06-12,Charlottesville,I Like It When You Sleep Tour,United States,38.0375,-78.4855
+182,2016-06-13,Norfolk,I Like It When You Sleep Tour,United States,36.8945,-76.259
+183,2016-06-14,Charleston,I Like It When You Sleep Tour,United States,32.8168,-79.9687
+184,2016-06-15,Charlotte,I Like It When You Sleep Tour,United States,35.2083,-80.8303
+185,2016-06-17,Raleigh,I Like It When You Sleep Tour,United States,35.8324,-78.6429
+187,2016-06-19,Dover,I Like It When You Sleep Tour,United States,39.161,-75.5202
+188,2016-06-23,Odense,I Like It When You Sleep Tour,Denmark,55.4,10.3833
+194,2016-07-07,Lisbon,I Like It When You Sleep Tour,Portugal,38.7122,-9.134
+195,2016-07-08,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+198,2016-07-13,Rome,I Like It When You Sleep Tour,Italy,41.8931,12.4828
+200,2016-07-16,Joensuu,I Like It When You Sleep Tour,Finland,62.6,29.7639
+203,2016-07-23,Sydney,I Like It When You Sleep Tour,Australia,-33.8678,151.21
+204,2016-07-23,Melbourne,I Like It When You Sleep Tour,Australia,-37.8142,144.9631
+205,2016-07-28,Chicago,I Like It When You Sleep Tour,United States,41.8375,-87.6866
+206,2016-07-29,Chicago,I Like It When You Sleep Tour,United States,41.8375,-87.6866
+207,2016-07-31,Oklahoma City,I Like It When You Sleep Tour,United States,35.4676,-97.5136
+209,2016-08-14,Jakarta,I Like It When You Sleep Tour,Indonesia,-6.1753,106.8269
+210,2016-08-18,Manila,I Like It When You Sleep Tour,Philippines,14.5958,120.9772
+212,2016-08-21,Tokyo,I Like It When You Sleep Tour,Japan,35.685,139.7514
+213,2016-08-26,Leeds,I Like It When You Sleep Tour,United Kingdom,53.7975,-1.5436
+214,2016-08-28,Reading,I Like It When You Sleep Tour,United Kingdom,51.4542,-0.9731
+216,2016-09-04,Graz,I Like It When You Sleep Tour,Austria,47.0708,15.4386
+217,2016-09-10,Paris,I Like It When You Sleep Tour,France,48.8567,2.3522
+218,2016-09-11,Berlin,I Like It When You Sleep Tour,Germany,52.5167,13.3833
+220,2016-09-27,Santiago,I Like It When You Sleep Tour,Chile,-33.4375,-70.65
+221,2016-09-29,Bogota,I Like It When You Sleep Tour,United States,40.8751,-74.0293
+225,2016-10-08,Chihuahua,I Like It When You Sleep Tour,Mexico,28.6369,-106.0769
+226,2016-10-13,Phoenix,I Like It When You Sleep Tour,United States,33.5722,-112.0892
+227,2016-10-14,Los Angeles,I Like It When You Sleep Tour,United States,34.1141,-118.4068
+228,2016-10-15,San Diego,I Like It When You Sleep Tour,United States,32.8313,-117.1222
+229,2016-10-18,San Jose,I Like It When You Sleep Tour,United States,37.3012,-121.848
+230,2016-10-19,Las Vegas,I Like It When You Sleep Tour,United States,36.2333,-115.2654
+231,2016-10-20,Salt Lake City,I Like It When You Sleep Tour,United States,40.7776,-111.9311
+232,2016-10-22,Spokane,I Like It When You Sleep Tour,United States,47.6671,-117.433
+233,2016-10-23,Calgary,I Like It When You Sleep Tour,Canada,51.05,-114.0667
+234,2016-10-24,Edmonton,I Like It When You Sleep Tour,Canada,53.5344,-113.4903
+235,2016-10-26,Winnipeg,I Like It When You Sleep Tour,Canada,49.8844,-97.1464
+236,2016-10-28,Champaign,I Like It When You Sleep Tour,United States,40.1142,-88.2737
+237,2016-10-30,Kent,I Like It When You Sleep Tour,United States,47.3887,-122.2128
+238,2016-10-31,Pittsburgh,I Like It When You Sleep Tour,United States,40.4397,-79.9763
+239,2016-11-01,Pittsburgh,I Like It When You Sleep Tour,United States,40.4397,-79.9763
+240,2016-11-03,Toronto,I Like It When You Sleep Tour,Canada,43.7417,-79.3733
+241,2016-11-04,Syracuse,I Like It When You Sleep Tour,United States,43.0407,-76.1437
+243,2016-11-09,Fairfax,I Like It When You Sleep Tour,United States,38.8531,-77.2997
+244,2016-11-11,Ypsilanti,I Like It When You Sleep Tour,United States,42.244,-83.6208
+245,2016-11-12,Grand Rapids,I Like It When You Sleep Tour,United States,42.9619,-85.6562
+246,2016-11-13,Chicago,I Like It When You Sleep Tour,United States,41.8375,-87.6866
+247,2016-11-14,Chicago,I Like It When You Sleep Tour,United States,41.8375,-87.6866
+249,2016-11-17,Highland Heights,I Like It When You Sleep Tour,United States,41.5518,-81.4691
+250,2016-11-18,Boone,I Like It When You Sleep Tour,United States,36.2111,-81.6669
+251,2016-11-21,Nashville,I Like It When You Sleep Tour,United States,36.1715,-86.7842
+252,2016-11-22,Atlanta,I Like It When You Sleep Tour,United States,33.7628,-84.422
+253,2016-11-23,Birmingham,I Like It When You Sleep Tour,United Kingdom,52.48,-1.9025
+254,2016-11-25,Dallas,I Like It When You Sleep Tour,United States,32.7935,-96.7667
+255,2016-11-26,Houston,I Like It When You Sleep Tour,United States,29.786,-95.3885
+256,2016-11-27,New Orleans,I Like It When You Sleep Tour,United States,30.0687,-89.9288
+257,2016-11-29,St. Louis,I Like It When You Sleep Tour,United States,38.6359,-90.2451
+258,2016-11-30,Knoxville,I Like It When You Sleep Tour,United States,35.9692,-83.9496
+259,2016-12-02,St. Augustine,I Like It When You Sleep Tour,United States,29.8976,-81.31
+260,2016-12-03,Tampa,I Like It When You Sleep Tour,United States,27.9945,-82.4447
+261,2016-12-04,Orlando,I Like It When You Sleep Tour,United States,28.4773,-81.337
+262,2016-12-12,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+263,2016-12-13,Manchester,I Like It When You Sleep Tour,United Kingdom,53.479,-2.2452
+264,2016-12-15,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+265,2016-12-16,London,I Like It When You Sleep Tour,United Kingdom,51.5072,-0.1275
+266,2016-12-17,Newcastle,I Like It When You Sleep Tour,South Africa,-27.7464,29.9328
+267,2016-12-19,Glasgow,I Like It When You Sleep Tour,United Kingdom,55.8611,-4.25
+268,2016-12-21,Bournemouth,I Like It When You Sleep Tour,United Kingdom,50.72,-1.88
+272,2017-03-29,Buenos Aires,I Like It When You Sleep Tour,Argentina,-34.5997,-58.3819
+273,2017-03-31,Buenos Aires,I Like It When You Sleep Tour,Argentina,-34.5997,-58.3819
+274,2017-04-01,Santiago,I Like It When You Sleep Tour,Chile,-33.4375,-70.65
+275,2017-04-04,Santiago,I Like It When You Sleep Tour,Chile,-33.4375,-70.65
+276,2017-04-06,Bogota,I Like It When You Sleep Tour,United States,40.8751,-74.0293
+277,2017-04-09,Mexico City,I Like It When You Sleep Tour,Mexico,19.3538,-99.1359
+278,2017-04-11,Guadalajara,I Like It When You Sleep Tour,Mexico,20.6764,-103.3422
+279,2017-04-12,Monterey,I Like It When You Sleep Tour,United States,36.5919,-121.8808
+280,2017-04-15,Allen,I Like It When You Sleep Tour,United States,33.1088,-96.6735
+281,2017-04-17,Austin,I Like It When You Sleep Tour,United States,30.3005,-97.7522
+282,2017-04-18,Austin,I Like It When You Sleep Tour,United States,30.3005,-97.7522
+283,2017-04-19,Tulsa,I Like It When You Sleep Tour,United States,36.1283,-95.9042
+284,2017-04-21,El Paso,I Like It When You Sleep Tour,United States,31.8476,-106.43
+285,2017-04-22,Mesa,I Like It When You Sleep Tour,United States,33.4015,-111.7178
+286,2017-04-23,Tucson,I Like It When You Sleep Tour,United States,32.1541,-110.8787
+287,2017-04-25,San Diego,I Like It When You Sleep Tour,United States,32.8313,-117.1222
+288,2017-04-26,Los Angeles,I Like It When You Sleep Tour,United States,34.1141,-118.4068
+289,2017-04-27,Los Angeles,I Like It When You Sleep Tour,United States,34.1141,-118.4068
+290,2017-04-28,San Francisco,I Like It When You Sleep Tour,United States,37.7558,-122.4449
+291,2017-04-30,Seattle,I Like It When You Sleep Tour,United States,47.6211,-122.3244
+292,2017-05-01,Vancouver,I Like It When You Sleep Tour,Canada,49.25,-123.1
+293,2017-05-03,Boise,I Like It When You Sleep Tour,United States,43.6005,-116.2308
+294,2017-05-05,Salt Lake City,I Like It When You Sleep Tour,United States,40.7776,-111.9311
+295,2017-05-06,Denver,I Like It When You Sleep Tour,United States,39.762,-104.8758
+296,2017-05-07,Denver,I Like It When You Sleep Tour,United States,39.762,-104.8758
+297,2017-05-09,Kansas City,I Like It When You Sleep Tour,United States,39.1238,-94.5541
+298,2017-05-11,Pittsburgh,I Like It When You Sleep Tour,United States,40.4397,-79.9763
+299,2017-05-12,Bethlehem,I Like It When You Sleep Tour,United States,40.6266,-75.3679
+301,2017-05-16,Milwaukee,I Like It When You Sleep Tour,United States,43.0642,-87.9675
+303,2017-05-19,Lancaster,I Like It When You Sleep Tour,United States,40.042,-76.3012
+304,2017-05-20,Chicago,I Like It When You Sleep Tour,United States,41.8375,-87.6866
+305,2017-05-22,Detroit,I Like It When You Sleep Tour,United States,42.3834,-83.1024
+306,2017-05-23,Rochester,I Like It When You Sleep Tour,United States,43.168,-77.6162
+307,2017-05-25,Ottawa,I Like It When You Sleep Tour,Canada,45.4247,-75.695
+308,2017-05-26,Montréal,I Like It When You Sleep Tour,Canada,45.5089,-73.5617
+309,2017-05-27,Boston,I Like It When You Sleep Tour,United States,42.3188,-71.0852
+311,2017-05-30,Niagara Falls,I Like It When You Sleep Tour,Canada,43.06,-79.1067
+312,2017-05-31,Niagara Falls,I Like It When You Sleep Tour,Canada,43.06,-79.1067
+313,2017-06-01,New York,I Like It When You Sleep Tour,United States,40.6943,-73.9249
+314,2017-06-03,Columbus,I Like It When You Sleep Tour,United States,39.9862,-82.9855
+315,2017-06-04,Cincinnati,I Like It When You Sleep Tour,United States,39.1413,-84.506
+316,2017-06-10,Manchester,I Like It When You Sleep Tour,United Kingdom,53.479,-2.2452
+317,2017-06-11,Aarhus,I Like It When You Sleep Tour,Denmark,56.1564,10.2097
+318,2017-06-12,Stockholm,I Like It When You Sleep Tour,Sweden,59.3275,18.0547
+319,2017-06-14,Helsinki,I Like It When You Sleep Tour,Finland,60.1708,24.9375
+320,2017-06-16,Belfast,I Like It When You Sleep Tour,United Kingdom,54.5967,-5.93
+321,2017-06-17,Dublin,I Like It When You Sleep Tour,Ireland,53.3497,-6.2603
+322,2017-06-19,Amsterdam,I Like It When You Sleep Tour,Netherlands,52.3667,4.8833
+323,2017-06-20,Paris,I Like It When You Sleep Tour,France,48.8567,2.3522
+325,2017-06-22,Hamburg,I Like It When You Sleep Tour,Germany,53.55,10.0
+326,2017-06-24,Munich,I Like It When You Sleep Tour,Germany,48.1375,11.575
+328,2017-06-26,Prague,I Like It When You Sleep Tour,Czechia,50.0875,14.4214
+330,2017-06-29,Milan,I Like It When You Sleep Tour,Italy,45.4669,9.19
+331,2017-07-01,Vienna,I Like It When You Sleep Tour,Austria,48.2083,16.3725
+332,2017-07-06,Bilbao,I Like It When You Sleep Tour,Spain,43.2631,-2.935
+333,2017-07-07,Montreux,I Like It When You Sleep Tour,Switzerland,46.435,6.9125
+334,2017-07-09,Glasgow,I Like It When You Sleep Tour,United Kingdom,55.8611,-4.25
+336,2018-11-29,Kingston,Music for Cars Tour,Jamaica,17.9714,-76.7931
+337,2018-11-30,Kingston,Music for Cars Tour,Jamaica,17.9714,-76.7931
+338,2018-12-04,Camden,Music for Cars Tour,United Kingdom,51.5434,-0.1552
+339,2019-01-09,Belfast,Music for Cars Tour,United Kingdom,54.5967,-5.93
+340,2019-01-10,Dublin,Music for Cars Tour,Ireland,53.3497,-6.2603
+341,2019-01-12,Glasgow,Music for Cars Tour,United Kingdom,55.8611,-4.25
+343,2019-01-16,Brighton,Music for Cars Tour,United Kingdom,50.8208,-0.1375
+344,2019-01-18,London,Music for Cars Tour,United Kingdom,51.5072,-0.1275
+345,2019-01-19,London,Music for Cars Tour,United Kingdom,51.5072,-0.1275
+346,2019-01-21,Exeter,Music for Cars Tour,United Kingdom,50.7256,-3.5269
+347,2019-01-23,Birmingham,Music for Cars Tour,United Kingdom,52.48,-1.9025
+348,2019-01-24,Manchester,Music for Cars Tour,United Kingdom,53.479,-2.2452
+349,2019-01-25,Sheffield,Music for Cars Tour,United Kingdom,53.3808,-1.4703
+350,2019-03-17,Mexico City,Music for Cars Tour,Mexico,19.3538,-99.1359
+351,2019-03-20,Zapopan,Music for Cars Tour,Mexico,20.7208,-103.3911
+352,2019-03-22,Monterrey,Music for Cars Tour,Mexico,25.6844,-100.3181
+353,2019-03-25,Lima,Music for Cars Tour,Peru,-12.06,-77.0375
+354,2019-03-28,Asunción,Music for Cars Tour,Paraguay,-25.28,-57.6344
+355,2019-03-30,Buenos Aires,Music for Cars Tour,Argentina,-34.5997,-58.3819
+356,2019-03-31,Santiago,Music for Cars Tour,Chile,-33.4375,-70.65
+357,2019-04-04,Rio de Janeiro,Music for Cars Tour,Brazil,-22.9111,-43.2056
+358,2019-04-05,São Paulo,Music for Cars Tour,Brazil,-23.5504,-46.6339
+359,2019-04-07,Bogotá,Music for Cars Tour,Colombia,4.6097,-74.0817
+360,2019-04-10,Los Angeles,Music for Cars Tour,United States,34.1141,-118.4068
+361,2019-04-12,Indio,Music for Cars Tour,United States,33.7346,-116.2346
+362,2019-04-15,Phoenix,Music for Cars Tour,United States,33.5722,-112.0892
+363,2019-04-16,Las Vegas,Music for Cars Tour,United States,36.2333,-115.2654
+364,2019-04-17,Los Angeles,Music for Cars Tour,United States,34.1141,-118.4068
+365,2019-04-19,Indio,Music for Cars Tour,United States,33.7346,-116.2346
+366,2019-04-21,Santa Barbara,Music for Cars Tour,United States,34.4285,-119.7202
+367,2019-04-22,San Francisco,Music for Cars Tour,United States,37.7558,-122.4449
+368,2019-04-25,Seattle,Music for Cars Tour,United States,47.6211,-122.3244
+369,2019-04-26,Vancouver,Music for Cars Tour,Canada,49.25,-123.1
+370,2019-04-27,Portland,Music for Cars Tour,United States,45.5371,-122.65
+371,2019-04-29,Orem,Music for Cars Tour,United States,40.2981,-111.6994
+372,2019-05-02,Irving,Music for Cars Tour,United States,32.8583,-96.9702
+373,2019-05-04,Sugar Land,Music for Cars Tour,United States,29.5935,-95.6358
+374,2019-05-05,Austin,Music for Cars Tour,United States,30.3005,-97.7522
+376,2019-05-07,Minneapolis,Music for Cars Tour,United States,44.9635,-93.2678
+377,2019-05-08,Chicago,Music for Cars Tour,United States,41.8375,-87.6866
+378,2019-05-10,Milwaukee,Music for Cars Tour,United States,43.0642,-87.9675
+379,2019-05-11,Rochester Hills,Music for Cars Tour,United States,42.6645,-83.1563
+380,2019-05-12,Cincinnati,Music for Cars Tour,United States,39.1413,-84.506
+381,2019-05-14,Columbus,Music for Cars Tour,United States,39.9862,-82.9855
+382,2019-05-15,Nashville,Music for Cars Tour,United States,36.1715,-86.7842
+383,2019-05-17,Gulf Shores,Music for Cars Tour,United States,30.2764,-87.7017
+384,2019-05-18,Atlanta,Music for Cars Tour,United States,33.7628,-84.422
+385,2019-05-19,Charlotte,Music for Cars Tour,United States,35.2083,-80.8303
+386,2019-05-21,Washington,Music for Cars Tour,United States,38.9047,-77.0163
+387,2019-05-22,Richmond,Music for Cars Tour,United States,37.5295,-77.4756
+388,2019-05-29,Darien,Music for Cars Tour,United States,41.7448,-87.9822
+389,2019-05-30,Boston,Music for Cars Tour,United States,42.3188,-71.0852
+390,2019-06-01,New York,Music for Cars Tour,United States,40.6943,-73.9249
+391,2019-06-02,Cincinnati,Music for Cars Tour,United States,39.1413,-84.506
+392,2019-06-03,Toronto,Music for Cars Tour,Canada,43.7417,-79.3733
+394,2019-06-09,Nuremberg,Music for Cars Tour,Germany,49.4539,11.0775
+395,2019-06-10,Landgraaf,Music for Cars Tour,Netherlands,50.9083,6.0297
+396,2019-06-13,Copenhagen,Music for Cars Tour,Denmark,55.6761,12.5689
+397,2019-06-14,Oslo,Music for Cars Tour,Norway,59.9133,10.7389
+399,2019-06-29,Stockholm,Music for Cars Tour,Sweden,59.3275,18.0547
+401,2019-07-04,Gdynia,Music for Cars Tour,Poland,54.5175,18.54
+402,2019-07-06,Turku,Music for Cars Tour,Finland,60.4517,22.2669
+403,2019-07-08,Vienna,Music for Cars Tour,Austria,48.2083,16.3725
+404,2019-07-11,Madrid,Music for Cars Tour,Spain,40.4169,-3.7033
+405,2019-07-13,Trenčín,Music for Cars Tour,Slovakia,48.8942,18.0406
+406,2019-07-18,Sesimbra,Music for Cars Tour,Portugal,38.4437,-9.0996
+409,2019-07-29,St. Petersburg,Music for Cars Tour,United States,27.7931,-82.6652
+410,2019-07-30,Moscow,Music for Cars Tour,Russia,55.7506,37.6175
+411,2019-08-01,Kyiv,Music for Cars Tour,Ukraine,50.45,30.5236
+412,2019-08-06,Vilnius,Music for Cars Tour,Lithuania,54.6872,25.28
+413,2019-08-08,Budapest,Music for Cars Tour,Hungary,47.4983,19.0408
+414,2019-08-10,Buftea,Music for Cars Tour,Romania,44.57,25.95
+415,2019-08-14,Dubai,Music for Cars Tour,United Arab Emirates,25.2697,55.3094
+416,2019-08-16,Chiba,Music for Cars Tour,Japan,35.6073,140.1064
+418,2019-08-23,Reading,Music for Cars Tour,United Kingdom,51.4542,-0.9731
+419,2019-08-24,Leeds,Music for Cars Tour,United Kingdom,53.7975,-1.5436
+420,2019-08-25,Glasgow,Music for Cars Tour,United Kingdom,55.8611,-4.25
+422,2019-09-06,Seoul,Music for Cars Tour,"Korea, South",37.56,126.99
+423,2019-09-08,Hong Kong,Music for Cars Tour,Hong Kong,22.2783,114.1586
+425,2019-09-13,Bangkok,Music for Cars Tour,Thailand,13.75,100.5167
+426,2019-09-14,Bangkok,Music for Cars Tour,Thailand,13.75,100.5167
+427,2019-09-16,Singapore,Music for Cars Tour,Singapore,1.3,103.8
+428,2019-09-18,Auckland,Music for Cars Tour,New Zealand,-36.8492,174.7653
+429,2019-09-20,Melbourne,Music for Cars Tour,Australia,-37.8142,144.9631
+430,2019-09-21,Sydney,Music for Cars Tour,Australia,-33.8678,151.21
+431,2019-09-22,Brisbane,Music for Cars Tour,Australia,-27.4678,153.0278
+432,2019-09-25,Adelaide,Music for Cars Tour,Australia,-34.9275,138.6
+433,2019-09-27,Perth,Music for Cars Tour,Australia,-31.9558,115.8597
+434,2019-09-29,Jakarta,Music for Cars Tour,Indonesia,-6.1753,106.8269
+435,2019-10-04,Darling,Music for Cars Tour,South Africa,-33.3833,18.3833
+436,2019-10-06,Johannesburg,Music for Cars Tour,South Africa,-26.2044,28.0416
+437,2019-11-02,Paris,Music for Cars Tour,France,48.8567,2.3522
+438,2019-11-16,Camden,Music for Cars Tour,United Kingdom,51.5434,-0.1552
+439,2019-11-17,Camden,Music for Cars Tour,United Kingdom,51.5434,-0.1552
+440,2019-11-19,Raleigh,Music for Cars Tour,United States,35.8324,-78.6429
+441,2019-11-20,Greenville,Music for Cars Tour,United States,34.8354,-82.3646
+442,2019-11-22,Orlando,Music for Cars Tour,United States,28.4773,-81.337
+443,2019-11-23,Fort Lauderdale,Music for Cars Tour,United States,26.1412,-80.1464
+444,2019-11-24,Tampa,Music for Cars Tour,United States,27.9945,-82.4447
+445,2019-11-26,New Orleans,Music for Cars Tour,United States,30.0687,-89.9288
+446,2019-11-27,Grand Prairie,Music for Cars Tour,United States,32.6871,-97.0208
+447,2019-11-29,Tulsa,Music for Cars Tour,United States,36.1283,-95.9042
+448,2019-12-01,Broomfield,Music for Cars Tour,United States,39.9542,-105.0526
+449,2019-12-02,Salt Lake City,Music for Cars Tour,United States,40.7776,-111.9311
+450,2019-12-03,Las Vegas,Music for Cars Tour,United States,36.2333,-115.2654
+451,2019-12-05,San Diego,Music for Cars Tour,United States,32.8313,-117.1222
+452,2019-12-06,Sacramento,Music for Cars Tour,United States,38.5677,-121.4685
+453,2019-12-07,San Jose,Music for Cars Tour,United States,37.3012,-121.848
+454,2019-12-10,Seattle,Music for Cars Tour,United States,47.6211,-122.3244
+455,2019-12-12,Chicago,Music for Cars Tour,United States,41.8375,-87.6866
+456,2019-12-13,Indianapolis,Music for Cars Tour,United States,39.7771,-86.1458
+457,2020-01-27,Auckland,Music for Cars Tour,New Zealand,-36.8492,174.7653
+458,2020-02-01,Brisbane,Music for Cars Tour,Australia,-27.4678,153.0278
+459,2020-02-02,Sydney,Music for Cars Tour,Australia,-33.8678,151.21
+460,2020-02-07,Adelaide,Music for Cars Tour,Australia,-34.9275,138.6
+461,2020-02-08,Melbourne,Music for Cars Tour,Australia,-37.8142,144.9631
+462,2020-02-09,Fremantle,Music for Cars Tour,Australia,-32.0542,115.7475
+463,2020-02-15,Nottingham,Music for Cars Tour,United Kingdom,52.9561,-1.1512
+464,2020-02-16,Newcastle,Music for Cars Tour,South Africa,-27.7464,29.9328
+465,2020-02-17,Leeds,Music for Cars Tour,United Kingdom,53.7975,-1.5436
+466,2020-02-19,Bournemouth,Music for Cars Tour,United Kingdom,50.72,-1.88
+467,2020-02-21,London,Music for Cars Tour,United Kingdom,51.5072,-0.1275
+468,2020-02-22,London,Music for Cars Tour,United Kingdom,51.5072,-0.1275
+470,2020-02-25,Birmingham,Music for Cars Tour,United Kingdom,52.48,-1.9025
+471,2020-02-26,Liverpool,Music for Cars Tour,United Kingdom,53.4072,-2.9917
+472,2020-02-28,Manchester,Music for Cars Tour,United Kingdom,53.479,-2.2452
+473,2020-02-29,Aberdeen,Music for Cars Tour,United Kingdom,57.15,-2.11
+474,2020-03-01,Glasgow,Music for Cars Tour,United Kingdom,55.8611,-4.25
+475,2020-03-03,Dublin,Music for Cars Tour,Ireland,53.3497,-6.2603
+477,2022-11-04,Boston,At Their Very Best,United States,42.3188,-71.0852
+478,2022-11-05,Boston,At Their Very Best,United States,42.3188,-71.0852
+479,2022-11-07,New York,At Their Very Best,United States,40.6943,-73.9249
+480,2022-11-09,Camden,At Their Very Best,United Kingdom,51.5434,-0.1552
+481,2022-11-10,Washington,At Their Very Best,United States,38.9047,-77.0163
+482,2022-11-12,Atlanta,At Their Very Best,United States,33.7628,-84.422
+483,2022-11-13,Nashville,At Their Very Best,United States,36.1715,-86.7842
+484,2022-11-15,Grand Prairie,At Their Very Best,United States,32.6871,-97.0208
+485,2022-11-16,Houston,At Their Very Best,United States,29.786,-95.3885
+486,2022-11-17,Austin,At Their Very Best,United States,30.3005,-97.7522
+487,2022-11-20,Mexico City,At Their Very Best,Mexico,19.3538,-99.1359
+488,2022-11-23,Phoenix,At Their Very Best,United States,33.5722,-112.0892
+489,2022-11-25,Paradise,At Their Very Best,United States,36.0872,-115.1355
+490,2022-11-26,San Diego,At Their Very Best,United States,32.8313,-117.1222
+491,2022-11-28,Inglewood,At Their Very Best,United States,33.9566,-118.3444
+492,2022-11-29,San Francisco,At Their Very Best,United States,37.7558,-122.4449
+493,2022-12-01,Portland,At Their Very Best,United States,45.5371,-122.65
+494,2022-12-02,Seattle,At Their Very Best,United States,47.6211,-122.3244
+495,2022-12-04,Fort Lauderdale,At Their Very Best,United States,26.1412,-80.1464
+496,2022-12-06,Denver,At Their Very Best,United States,39.762,-104.8758
+497,2022-12-08,Independence,At Their Very Best,United States,39.0871,-94.3501
+498,2022-12-09,Chicago,At Their Very Best,United States,41.8375,-87.6866
+499,2022-12-10,Milwaukee,At Their Very Best,United States,43.0642,-87.9675
+500,2022-12-12,Toronto,At Their Very Best,Canada,43.7417,-79.3733
+501,2022-12-14,Minneapolis,At Their Very Best,United States,44.9635,-93.2678
+502,2022-12-16,Newport,At Their Very Best,United Kingdom,51.5886,-2.9978
+504,2023-01-08,Brighton,At Their Very Best,United Kingdom,50.8208,-0.1375
+505,2023-01-09,Bournemouth,At Their Very Best,United Kingdom,50.72,-1.88
+506,2023-01-10,Exeter,At Their Very Best,United Kingdom,50.7256,-3.5269
+507,2023-01-12,London,At Their Very Best,United Kingdom,51.5072,-0.1275
+508,2023-01-13,London,At Their Very Best,United Kingdom,51.5072,-0.1275
+509,2023-01-15,Birmingham,At Their Very Best,United Kingdom,52.48,-1.9025
+512,2023-01-19,Glasgow,At Their Very Best,United Kingdom,55.8611,-4.25
+513,2023-01-20,Manchester,At Their Very Best,United Kingdom,53.479,-2.2452
+514,2023-01-22,Nottingham,At Their Very Best,United Kingdom,52.9561,-1.1512
+515,2023-01-23,Leeds,At Their Very Best,United Kingdom,53.7975,-1.5436
+516,2023-01-25,Newcastle,At Their Very Best,South Africa,-27.7464,29.9328
+517,2023-01-26,Liverpool,At Their Very Best,United Kingdom,53.4072,-2.9917
+518,2023-01-29,Dublin,At Their Very Best,Ireland,53.3497,-6.2603
+519,2023-01-30,Belfast,At Their Very Best,United Kingdom,54.5967,-5.93
+520,2023-03-18,San Isidro,At Their Very Best,Philippines,14.4711,121.0077
+521,2023-03-19,Santiago,At Their Very Best,Chile,-33.4375,-70.65
+522,2023-03-21,Luque,At Their Very Best,Paraguay,-25.27,-57.4872
+523,2023-03-23,Sopó,At Their Very Best,Colombia,4.9081,-73.9403
+524,2023-03-25,São Paulo,At Their Very Best,Brazil,-23.5504,-46.6339
+525,2023-03-29,Guadalajara,At Their Very Best,Mexico,20.6764,-103.3422
+526,2023-03-30,Mexico City,At Their Very Best,Mexico,19.3538,-99.1359
+527,2023-04-01,Monterrey,At Their Very Best,Mexico,25.6844,-100.3181
+528,2023-04-04,Pak Kret,At Their Very Best,Thailand,13.9125,100.4978
+529,2023-04-08,Perth,At Their Very Best,Australia,-31.9558,115.8597
+530,2023-04-10,Adelaide,At Their Very Best,Australia,-34.9275,138.6
+531,2023-04-11,Melbourne,At Their Very Best,Australia,-37.8142,144.9631
+532,2023-04-12,Melbourne,At Their Very Best,Australia,-37.8142,144.9631
+533,2023-04-14,Sydney,At Their Very Best,Australia,-33.8678,151.21
+534,2023-04-15,Brisbane,At Their Very Best,Australia,-27.4678,153.0278
+535,2023-04-16,Sydney,At Their Very Best,Australia,-33.8678,151.21
+536,2023-04-19,Wellington,At Their Very Best,New Zealand,-41.2889,174.7772
+537,2023-04-21,Auckland,At Their Very Best,New Zealand,-36.8492,174.7653
+538,2023-04-24,Tokyo,At Their Very Best,Japan,35.685,139.7514
+539,2023-04-26,Yokohama,At Their Very Best,Japan,35.4333,139.65
+540,2023-04-27,Yokohama,At Their Very Best,Japan,35.4333,139.65
+541,2023-04-29,Nagoya,At Their Very Best,Japan,35.1814,136.9064
+545,2023-05-27,Dundee,At Their Very Best,United Kingdom,56.4606,-2.97
+546,2023-06-02,Aarhus,At Their Very Best,Denmark,56.1564,10.2097
+547,2023-06-03,Warsaw,At Their Very Best,Poland,52.23,21.0111
+548,2023-06-05,Vienna,At Their Very Best,Austria,48.2083,16.3725
+549,2023-06-07,Dublin,At Their Very Best,Ireland,53.3497,-6.2603
+550,2023-06-09,Hilvarenbeek,At Their Very Best,Netherlands,51.4861,5.1367
+551,2023-06-10,Hradec Králové,At Their Very Best,Czechia,50.2092,15.8319
+552,2023-06-11,Manchester,At Their Very Best,United Kingdom,53.479,-2.2452
+553,2023-06-13,Cork,At Their Very Best,Ireland,51.9,-8.4731
+554,2023-06-15,Oslo,At Their Very Best,Norway,59.9133,10.7389
+556,2023-06-18,Scheeßel,At Their Very Best,Germany,53.1706,9.4831
+557,2023-06-23,Luxembourg,At Their Very Best,Luxembourg,49.6106,6.1328
+558,2023-06-26,Bucharest,At Their Very Best,Romania,44.4134,26.0978
+560,2023-07-01,Stockholm,At Their Very Best,Sweden,59.3275,18.0547
+561,2023-07-02,London,At Their Very Best,United Kingdom,51.5072,-0.1275
+562,2023-09-16,Atlanta,Still...At Their Very Best,United States,33.7628,-84.422
+563,2023-09-23,Las Vegas,Still...At Their Very Best,United States,36.2333,-115.2654
+564,2023-09-26,Sacramento,Still...At Their Very Best,United States,38.5677,-121.4685
+565,2023-09-28,San Jose,Still...At Their Very Best,United States,37.3012,-121.848
+566,2023-09-30,San Diego,Still...At Their Very Best,United States,32.8313,-117.1222
+567,2023-10-02,Los Angeles,Still...At Their Very Best,United States,34.1141,-118.4068
+568,2023-10-05,Glendale,Still...At Their Very Best,United States,33.5791,-112.2311
+569,2023-10-07,Greenwood Village,Still...At Their Very Best,United States,39.6153,-104.9131
+570,2023-10-09,Fort Worth,Still...At Their Very Best,United States,32.7817,-97.3474
+571,2023-10-12,New Orleans,Still...At Their Very Best,United States,30.0687,-89.9288
+572,2023-10-14,Austin,Still...At Their Very Best,United States,30.3005,-97.7522
+573,2023-10-17,Miami,Still...At Their Very Best,United States,25.784,-80.2101
+574,2023-10-18,Tampa,Still...At Their Very Best,United States,27.9945,-82.4447
+575,2023-10-20,Charlotte,Still...At Their Very Best,United States,35.2083,-80.8303
+576,2023-10-22,Nashville,Still...At Their Very Best,United States,36.1715,-86.7842
+577,2023-10-23,St. Louis,Still...At Their Very Best,United States,38.6359,-90.2451
+578,2023-10-25,Kansas City,Still...At Their Very Best,United States,39.1238,-94.5541
+579,2023-10-26,Minneapolis,Still...At Their Very Best,United States,44.9635,-93.2678
+580,2023-10-28,Milwaukee,Still...At Their Very Best,United States,43.0642,-87.9675
+581,2023-10-29,Rosemont,Still...At Their Very Best,United States,38.5478,-121.3553
+582,2023-10-31,Detroit,Still...At Their Very Best,United States,42.3834,-83.1024
+583,2023-11-02,Indianapolis,Still...At Their Very Best,United States,39.7771,-86.1458
+584,2023-11-03,Columbus,Still...At Their Very Best,United States,39.9862,-82.9855
+585,2023-11-05,Pittsburgh,Still...At Their Very Best,United States,40.4397,-79.9763
+586,2023-11-07,Newark,Still...At Their Very Best,United States,40.7245,-74.1725
+587,2023-11-08,Baltimore,Still...At Their Very Best,United States,39.3051,-76.6144
+588,2023-11-10,Philadelphia,Still...At Their Very Best,United States,40.0077,-75.1339
+589,2023-11-12,Boston,Still...At Their Very Best,United States,42.3188,-71.0852
+590,2023-11-14,New York,Still...At Their Very Best,United States,40.6943,-73.9249
+591,2023-11-15,New York,Still...At Their Very Best,United States,40.6943,-73.9249
+592,2023-11-17,Montréal,Still...At Their Very Best,Canada,45.5089,-73.5617
+593,2023-11-18,Toronto,Still...At Their Very Best,Canada,43.7417,-79.3733
+594,2023-11-20,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+595,2023-11-22,Grand Rapids,Still...At Their Very Best,United States,42.9619,-85.6562
+596,2023-11-26,Salt Lake City,Still...At Their Very Best,United States,40.7776,-111.9311
+597,2023-11-27,Boise,Still...At Their Very Best,United States,43.6005,-116.2308
+598,2023-11-29,Vancouver,Still...At Their Very Best,Canada,49.25,-123.1
+599,2023-12-01,Portland,Still...At Their Very Best,United States,45.5371,-122.65
+600,2023-12-02,Seattle,Still...At Their Very Best,United States,47.6211,-122.3244
+601,2024-01-13,Anaheim,Still...At Their Very Best,United States,33.839,-117.8574
+602,2024-02-08,Glasgow,Still...At Their Very Best,United Kingdom,55.8611,-4.25
+603,2024-02-09,Glasgow,Still...At Their Very Best,United Kingdom,55.8611,-4.25
+604,2024-02-12,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+605,2024-02-13,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+606,2024-02-14,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+607,2024-02-17,Manchester,Still...At Their Very Best,United Kingdom,53.479,-2.2452
+608,2024-02-18,Manchester,Still...At Their Very Best,United Kingdom,53.479,-2.2452
+609,2024-02-20,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+610,2024-02-21,Birmingham,Still...At Their Very Best,United Kingdom,52.48,-1.9025
+611,2024-02-26,Lisbon,Still...At Their Very Best,Portugal,38.7122,-9.134
+612,2024-02-27,Madrid,Still...At Their Very Best,Spain,40.4169,-3.7033
+613,2024-03-01,Paris,Still...At Their Very Best,France,48.8567,2.3522
+614,2024-03-02,Amsterdam,Still...At Their Very Best,Netherlands,52.3667,4.8833
+615,2024-03-03,Brussels,Still...At Their Very Best,Belgium,50.8333,4.3333
+616,2024-03-05,Hamburg,Still...At Their Very Best,Germany,53.55,10.0
+617,2024-03-07,Oslo,Still...At Their Very Best,Norway,59.9133,10.7389
+618,2024-03-08,Stockholm,Still...At Their Very Best,Sweden,59.3275,18.0547
+619,2024-03-10,Copenhagen,Still...At Their Very Best,Denmark,55.6761,12.5689
+620,2024-03-12,Berlin,Still...At Their Very Best,Germany,52.5167,13.3833
+621,2024-03-13,Warsaw,Still...At Their Very Best,Poland,52.23,21.0111
+622,2024-03-14,Prague,Still...At Their Very Best,Czechia,50.0875,14.4214
+623,2024-03-16,Zürich,Still...At Their Very Best,Switzerland,47.3744,8.5411
+624,2024-03-18,Munich,Still...At Their Very Best,Germany,48.1375,11.575
+625,2024-03-19,Milan,Still...At Their Very Best,Italy,45.4669,9.19
+626,2024-03-21,Frankfurt,Still...At Their Very Best,Germany,50.1106,8.6822
+627,2024-03-22,Cologne,Still...At Their Very Best,Germany,50.9422,6.9578
+628,2024-03-24,Amsterdam,Still...At Their Very Best,Netherlands,52.3667,4.8833
+629,2024-01-13,Anaheim,Still...At Their Very Best,United States,33.839,-117.8574
+630,2024-02-08,Glasgow,Still...At Their Very Best,United Kingdom,55.8611,-4.25
+631,2024-02-09,Glasgow,Still...At Their Very Best,United Kingdom,55.8611,-4.25
+632,2024-02-12,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+633,2024-02-13,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+634,2024-02-14,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+635,2024-02-17,Manchester,Still...At Their Very Best,United Kingdom,53.479,-2.2452
+636,2024-02-18,Manchester,Still...At Their Very Best,United Kingdom,53.479,-2.2452
+637,2024-02-20,London,Still...At Their Very Best,United Kingdom,51.5072,-0.1275
+638,2024-02-21,Birmingham,Still...At Their Very Best,United Kingdom,52.48,-1.9025
+639,2024-02-26,Lisbon,Still...At Their Very Best,Portugal,38.7122,-9.134
+640,2024-02-27,Madrid,Still...At Their Very Best,Spain,40.4169,-3.7033
+641,2024-03-01,Paris,Still...At Their Very Best,France,48.8567,2.3522
+642,2024-03-02,Amsterdam,Still...At Their Very Best,Netherlands,52.3667,4.8833
+643,2024-03-03,Brussels,Still...At Their Very Best,Belgium,50.8333,4.3333
+644,2024-03-05,Hamburg,Still...At Their Very Best,Germany,53.55,10.0
+645,2024-03-07,Oslo,Still...At Their Very Best,Norway,59.9133,10.7389
+646,2024-03-08,Stockholm,Still...At Their Very Best,Sweden,59.3275,18.0547
+647,2024-03-10,Copenhagen,Still...At Their Very Best,Denmark,55.6761,12.5689
+648,2024-03-12,Berlin,Still...At Their Very Best,Germany,52.5167,13.3833
+649,2024-03-13,Warsaw,Still...At Their Very Best,Poland,52.23,21.0111
+650,2024-03-14,Prague,Still...At Their Very Best,Czechia,50.0875,14.4214
+651,2024-03-16,Zürich,Still...At Their Very Best,Switzerland,47.3744,8.5411
+652,2024-03-18,Munich,Still...At Their Very Best,Germany,48.1375,11.575
+653,2024-03-19,Milan,Still...At Their Very Best,Italy,45.4669,9.19
+654,2024-03-21,Frankfurt,Still...At Their Very Best,Germany,50.1106,8.6822
+655,2024-03-22,Cologne,Still...At Their Very Best,Germany,50.9422,6.9578
+656,2024-03-24,Amsterdam,Still...At Their Very Best,Netherlands,52.3667,4.8833
+657,2014-12-11,Wallingford,The 1975 World Tour,,51.6,-1.125
+658,2014-12-13,Stroudsburg,The 1975 World Tour,,40.986,-75.195
+659,2014-12-19,Lake Buena Vista,The 1975 World Tour,,28.375,-81.52
+660,2015-11-21,Southampton,I Like It When You Sleep Tour,,50.909,-1.404
+661,2015-11-23,Southend On Sea,I Like It When You Sleep Tour,,51.538,0.713
+662,2016-04-04,Frederiksberg,I Like It When You Sleep Tour,,55.678,12.533
+663,2016-04-21,Santa Barbra,I Like It When You Sleep Tour,,34.421,-119.698
+664,2016-04-22,Berkley,I Like It When You Sleep Tour,,37.872,-122.272
+665,2016-04-26,Portland,I Like It When You Sleep Tour,,45.515,-122.679
+666,2016-06-03,Nuremberg,I Like It When You Sleep Tour,,49.452,11.077
+667,2016-06-04,Nuremberg,I Like It When You Sleep Tour,,49.452,11.077
+668,2016-06-05,Nuremberg,I Like It When You Sleep Tour,,49.452,11.077
+669,2016-06-18,Seaside Heights,I Like It When You Sleep Tour,,39.944,-74.072
+670,2016-06-25,Pilton,I Like It When You Sleep Tour,,51.158,-2.585
+671,2016-06-30,Norrkoping,I Like It When You Sleep Tour,,58.588,16.193
+672,2016-07-01,Werchter,I Like It When You Sleep Tour,,50.976,4.7
+673,2016-07-02,Gdansk,I Like It When You Sleep Tour,,54.352,18.646
+674,2016-07-05,Hradec Kralove,I Like It When You Sleep Tour,,50.21,15.832
+675,2016-07-09,Auchterarder,I Like It When You Sleep Tour,,56.297,-3.711
+676,2016-07-10,Roeser,I Like It When You Sleep Tour,,49.54,6.15
+677,2016-07-15,Tonsberg,I Like It When You Sleep Tour,,59.267,10.408
+678,2016-07-17,Orpesa,I Like It When You Sleep Tour,,40.093,0.141
+679,2016-07-22,Byron,I Like It When You Sleep Tour,,-28.643,153.612
+680,2016-08-12,Genting Highlands,I Like It When You Sleep Tour,,3.423,101.793
+681,2016-08-20,Osaka,I Like It When You Sleep Tour,,34.694,135.502
+682,2016-09-02,Stradbally,I Like It When You Sleep Tour,,53.016,-7.15
+683,2016-09-23,Sao Paulo,I Like It When You Sleep Tour,,-23.551,-46.633
+684,2016-10-02,Flushing,I Like It When You Sleep Tour,,40.765,-73.833
+685,2016-10-05,Benito Juarez,I Like It When You Sleep Tour,,19.37,-99.16
+686,2016-10-07,Torreon,I Like It When You Sleep Tour,,25.543,-103.406
+687,2016-11-05,Uncasville,I Like It When You Sleep Tour,,41.436,-72.109
+688,2016-11-16,Indianapolia,I Like It When You Sleep Tour,,39.768,-86.158
+689,2016-12-22,Cardiff,I Like It When You Sleep Tour,,51.481,-3.179
+690,2017-03-25,Sao Paulo,I Like It When You Sleep Tour,,-23.551,-46.633
+691,2017-03-27,Sao Paulo,I Like It When You Sleep Tour,,-23.551,-46.633
+692,2017-05-13,Manchester Township,I Like It When You Sleep Tour,,39.955,-74.358
+693,2017-05-17,St. Pauls,I Like It When You Sleep Tour,,44.954,-93.09
+694,2017-05-28,Glen Falls,I Like It When You Sleep Tour,,43.31,-73.644
+695,2017-06-21,Koln,I Like It When You Sleep Tour,,50.938,6.96
+696,2017-06-25,Offenbach,I Like It When You Sleep Tour,,50.096,8.766
+697,2017-06-28,Zurich,I Like It When You Sleep Tour,,47.377,8.541
+698,2017-07-10,Henham Park,I Like It When You Sleep Tour,,52.34,1.57
+699,2019-01-14,Cardiff,Music for Cars Tour,,51.481,-3.179
+700,2019-05-06,Bonner Springs,Music for Cars Tour,,39.06,-94.883
+701,2019-06-07,Nuremberg,Music for Cars Tour,,49.452,11.077
+702,2019-06-28,Werchter,Music for Cars Tour,,50.976,4.7
+703,2019-06-30,St. Gallen,Music for Cars Tour,,47.424,9.377
+704,2019-07-20,Benicàssim,Music for Cars Tour,,40.056,0.065
+705,2019-07-26,Salacgrīva,Music for Cars Tour,,57.756,24.358
+706,2019-08-18,Osaka,Music for Cars Tour,,34.694,135.502
+707,2019-08-31,Stradbally,Music for Cars Tour,,53.016,-7.15
+708,2019-09-11,Pasay,Music for Cars Tour,,14.538,121.0
+709,2020-02-23,Cardiff,Music for Cars Tour,,51.481,-3.179
+710,2022-11-03,Uncasville,At Their Very Best,,41.436,-72.109
+711,2022-12-17,Moon Township[f],At Their Very Best,,40.517,-80.211
+712,2023-01-16,Cardiff,At Their Very Best,,51.481,-3.179
+713,2023-01-17,Cardiff,At Their Very Best,,51.481,-3.179
+714,2023-04-30,Osaka,At Their Very Best,,34.694,135.502
+715,2023-05-03,Pasay,At Their Very Best,,14.538,121.0
+716,2023-05-04,Pasay,At Their Very Best,,14.538,121.0
+717,2023-06-16,Neuhausen ob Eck,At Their Very Best,,47.992,8.92
+718,2023-06-29,Werchter,At Their Very Best,,50.976,4.7
