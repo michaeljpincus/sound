@@ -31,7 +31,7 @@ map.on('load', () => {
     const attrib = document.querySelector('.maplibregl-ctrl-attrib');
     attrib?.classList.remove('maplibregl-compact-show');
     attrib?.removeAttribute('open');
-    
+
     map.addSource('tour_cities', {
     type: 'geojson',
     data: 'fixedgdf.geojson',
@@ -43,7 +43,7 @@ map.on('load', () => {
     type: 'circle',
     source: 'tour_cities',
     paint: {
-        'circle-radius': 7,
+        'circle-radius': 10,
         'circle-color': [
             'match',
             ['get', 'Tour'],
